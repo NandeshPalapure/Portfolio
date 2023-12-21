@@ -1,7 +1,11 @@
-body{
-    margin: 0;
-    padding: 0;
+div.greet .para{
+    background-color: black;
 }
-p{
-    background-color: aquamarine;
+.geret p.para{
+    background-color: blue;
+}
+greet .para {
+    background-color: brown;
+     
+
 }

@@ -1,0 +1,16 @@
+h1{
+    font-family: league spartan;
+    color: orange;
+    text-align: center;
+    font-size: 55px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    text-decoration: rgb(3, 240, 240) double underline;
+    text-transform: uppercase;
+
+}
+#myid p{
+    color: green;
+     
+}
